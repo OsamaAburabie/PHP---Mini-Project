@@ -12,10 +12,7 @@
                                                            array('project_name' => 'instagram clone', 'is_compleated' => 'yes'),
                                                            array('project_name' => 'React', 'is_compleated' => 'yes')
                                                          ),
-                                      'attendance' => array( 
-                                                             array('check_in' =>'15 dec 2020 09:00', 'check_out' => '15 dec 2020 18:00'),
-                                                             array('check_in' => '14 dec 2020 08:00', 'check_out' => '14 dec 2020 14:00')
-                                                           )
+                                     
                                       ),
                                        array(
                                       'id' => '2',
@@ -29,10 +26,7 @@
                                                            array('project_name' => 'instagram clone', 'is_compleated' => 'yes'),
                                                            array('project_name' => 'React', 'is_compleated' => 'no')
                                                          ),
-                                      'attendance' => array( 
-                                                             array('check_in' =>'15 dec 2020 09:00', 'check_out' => '15 dec 2020 18:00'),
-                                                             array('check_in' => '14 dec 2020 08:00', 'check_out' => '14 dec 2020 19:00')
-                                                           )
+                                      
                                       ),
                                        array(
                                       'id' => '3',
@@ -46,10 +40,7 @@
                                                            array('project_name' => 'instagram clone', 'is_compleated' => 'yes'),
                                                            array('project_name' => 'React', 'is_compleated' => 'yes')
                                                          ),
-                                      'attendance' => array( 
-                                                             array('check_in' =>'15 dec 2020 09:00', 'check_out' => '15 dec 2020 18:00'),
-                                                             array('check_in' => '14 dec 2020 08:00', 'check_out' => '14 dec 2020 14:00')
-                                                           )
+                                      
                                       ),
                                        array(
                                       'id' => '4',
@@ -63,10 +54,7 @@
                                                            array('project_name' => 'instagram clone', 'is_compleated' => 'no'),
                                                            array('project_name' => 'React', 'is_compleated' => 'yes')
                                                          ),
-                                      'attendance' => array( 
-                                                             array('check_in' =>'15 dec 2020 09:00', 'check_out' => '15 dec 2020 18:00'),
-                                                             array('check_in' => '14 dec 2020 08:00', 'check_out' => '14 dec 2020 14:00')
-                                                           )
+                                      
                                       ),
                                        array(
                                       'id' => '5',
@@ -80,10 +68,7 @@
                                                            array('project_name' => 'instagram clone', 'is_compleated' => 'yes'),
                                                            array('project_name' => 'React', 'is_compleated' => 'yes')
                                                          ),
-                                      'attendance' => array( 
-                                                             array('check_in' =>'15 dec 2020 09:00', 'check_out' => '15 dec 2020 18:00'),
-                                                             array('check_in' => '14 dec 2020 08:00', 'check_out' => '14 dec 2020 14:00')
-                                                           )
+                                    
                                       ),
                                        array(
                                       'id' => '6',
@@ -96,10 +81,7 @@
                                                            array('project_name' => 'instagram clone', 'is_compleated' => 'yes'),
                                                            array('project_name' => 'React', 'is_compleated' => 'yes')
                                                          ),
-                                      'attendance' => array( 
-                                                             array('check_in' =>'15 dec 2020 09:00', 'check_out' => '15 dec 2020 18:00'),
-                                                             array('check_in' => '14 dec 2020 08:00', 'check_out' => '14 dec 2020 14:00')
-                                                           )
+                                     
                                       ),
                                        array(
                                       'id' => '7',
@@ -113,10 +95,7 @@
                                                            array('project_name' => 'instagram clone', 'is_compleated' => 'yes'),
                                                            array('project_name' => 'React', 'is_compleated' => 'yes')
                                                          ),
-                                      'attendance' => array( 
-                                                             array('check_in' =>'15 dec 2020 09:00', 'check_out' => '15 dec 2020 18:00'),
-                                                             array('check_in' => '14 dec 2020 08:00', 'check_out' => '14 dec 2020 14:00')
-                                                           )
+                                     
                                       ),
                                 );
                               
